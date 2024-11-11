@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ajallen
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI chatbots
+- 👀 I’m interested in Deep learning
+- 💞️ I’m looking to collaborate on Computer vision projects
 - 📫 How to reach me aj.allen0505@gmail.com
 
 <!---
